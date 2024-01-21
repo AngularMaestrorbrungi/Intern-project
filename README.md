@@ -1,6 +1,6 @@
 # Angular Full stack Internship project
 
-
+The code is stored in Master branch
 Angular Invoice Management System
 Overview
 This Angular 14-based Invoice Management System provides a seamless solution for businesses to efficiently manage their invoices. The system includes a user-friendly dashboard, features for adding customer and order details, robust authentication with login functionality, comprehensive reports for orders and customers, logout capability, CRUD operations, and persistent data storage using JSON.
