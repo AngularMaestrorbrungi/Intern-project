@@ -1,1 +1,1 @@
-# Intern-project
+# Angular Full stack Internship project
